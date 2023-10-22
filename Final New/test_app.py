@@ -405,5 +405,4 @@ def page_not_found(e):
 
 
 if __name__=='__main__':
-    manager = Manager(app)
-    manager.run(debug=True)
+    app.run(debug=True)

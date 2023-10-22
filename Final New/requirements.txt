@@ -1,7 +1,7 @@
 click
 dnspython
 email-validator
-Flask
+Flask==2.0.2
 Flask-Admin
 Flask-Login
 Flask-SQLAlchemy
